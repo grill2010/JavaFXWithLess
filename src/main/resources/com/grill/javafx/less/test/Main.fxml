@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><?import javafx.scene.layout.StackPane?><StackPane fx:id="appRootElement" minHeight="480.0" minWidth="800.0"
+                                                                                         stylesheets="@Main.css" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8">
+
+</StackPane>
